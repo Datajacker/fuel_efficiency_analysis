@@ -10,7 +10,7 @@ This project analyzes the dataset and builds the model to predict the mpg. There
 This project initially is an interview task. I gradually find it will enrich my data science skills by continuously working on this.
 
 ## File description
-The detailed dataset and description of features can be accessed [here] (https://www.fueleconomy.gov/feg/ws/index.shtml#vehicle).
+The detailed dataset and description of features can be accessed [here](https://www.fueleconomy.gov/feg/ws/index.shtml#vehicle).
 
 
 ## How to interact with my project
