@@ -18,4 +18,4 @@ You can send pull request or suggestions to me.
 
 
 ## Licensing, author, acknowledgement
-There is no licensing. I want to thank anyone who help me on the journey of data science.
+MIT license. I want to thank anyone who help me on the journey of data science.
