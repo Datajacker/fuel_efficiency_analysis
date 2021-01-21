@@ -1,8 +1,9 @@
 # fuel_efficiency_analysis
 The repository concerns the fuel efficiency analysis of different vehicles from different manufacturers based on the data from the Depart of Energy, US.
 * One post about this project has been shared on [medium](https://jyi3.medium.com/how-to-conduct-data-science-based-on-the-business-context-239cf934cee8)
-* This project employs the 
+* This project employs the CRISP-DM process.
 ![CRISP-DM](figure/data-mining.jpg)
+
 ## Installation
 
 This project analyzes the dataset and builds the model to predict the mpg. 
