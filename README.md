@@ -18,7 +18,7 @@ A few libraries need to be imported:
 
 ## Project motivation
 
-This project explores how the features of vehicles impact their fuel efficiency. The data is directly taken from the Department of Energy, US Government. Their fuel efficiency is evaluated by their mile per gallon (MPG) under different conditions.
+This project explores how the features of vehicles impact their fuel efficiency. The data is directly taken from the Department of Energy, US Government. Their fuel efficiency is evaluated by their mile per gallon (MPG) under different conditions. It could be potentially used in the design of vehicles and the implementation of environmental standards.
 
 ## File description
 The detailed dataset and description of features can be accessed [here](https://www.fueleconomy.gov/feg/ws/index.shtml#vehicle).
