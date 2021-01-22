@@ -23,14 +23,32 @@ This project explores how the features of vehicles impact their fuel efficiency.
 ## File description
 The detailed dataset and description of features can be accessed [here](https://www.fueleconomy.gov/feg/ws/index.shtml#vehicle).
 
-## Reference
-* [CRISP-DM Overview- Data Science Project Management](https://www.datascience-pm.com/crisp-dm-2/)
-* [Manage your next Data Science Project with CRISP-DM METHOD](https://analyticsindiamag.com/crisp-dm-data-science-project/)
-* [Six steps in CRISP-DM the standard data mining process](https://www.proglobalbusinesssolutions.com/six-steps-in-crisp-dm-the-standard-data-mining-process/)
-
 ## How to interact with my project
 You can send pull request or suggestions to me.
 
+## Reference
+* CRISP-DM
+  * [CRISP-DM Overview- Data Science Project Management](https://www.datascience-pm.com/crisp-dm-2/)
+  * [Manage your next Data Science Project with CRISP-DM METHOD](https://analyticsindiamag.com/crisp-dm-data-science-project/)
+  * [Six steps in CRISP-DM the standard data mining process](https://www.proglobalbusinesssolutions.com/six-steps-in-crisp-dm-the-standard-data-mining-process/)
+* Jupyter Notebook
+  * [Jupyter Notebook Best Practices](https://towardsdatascience.com/jupyter-notebook-best-practices-f430a6ba8c69)
+  * [Jupyter Notebook Shortcuts](https://towardsdatascience.com/jypyter-notebook-shortcuts-bf0101a98330)
+  * [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+* Code resources
+  * [Python Docstrings](https://www.geeksforgeeks.org/python-docstrings/)
+  * [Docstring vs Comments](https://stackoverflow.com/questions/19074745/docstrings-vs-comments)
+  * [Do not Repeat Yourself](https://www.youtube.com/watch?v=IGH4-ZhfVDk)
+* How to work with missing data
+  * [Working with Missing Data](https://pandas.pydata.org/pandas-docs/version/0.22/missing_data.html)
+* Data Science project structure
+  * [Manage your data science project structure in early stage](https://towardsdatascience.com/manage-your-data-science-project-structure-in-early-stage-95f91d4d0600)
+  * [How to write a good README for your GitHub project?](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+* How to write post blog
+  * [The Art of Storytelling in Analytics and Data Science | How to Create Data Stories?](https://www.analyticsvidhya.com/blog/2020/05/art-storytelling-analytics-data-science/)
+  * [5 reasons why programmers should blog](https://medium.com/datadriveninvestor/5-reasons-why-programmers-should-blog-93687009272b)
+  * [Medium Titles, Subtitles, and Kickers](https://medium.com/blogging-guide/medium-titles-subtitles-and-kickers-ce28a5700487)
+  * [How you write headlines](https://medium.com/the-mission/this-new-data-will-make-you-rethink-how-you-write-headlines-751358f6639a)
 
 ## Licensing, author, acknowledgement
 MIT license. I want to thank anyone who help me on the journey of data science.
