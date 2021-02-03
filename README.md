@@ -1,6 +1,7 @@
 # fuel_efficiency_analysis
 The repository concerns the fuel efficiency analysis of different vehicles from different manufacturers based on the data from the Depart of Energy, US.
 * One post about this project has been shared on [medium](https://jyi3.medium.com/how-to-conduct-data-science-based-on-the-business-context-239cf934cee8)
+* The recording of the presentation has been posted on [YouTube](youtube.com/watch?v=kHunTjkJPow&feature=youtu.be)
 * The steps of the data science process: **gather, assess, clean, analyze, model, visualize**
 * This project employs the **CRISP-DM** process.
 ![CRISP-DM](figure/data-mining.jpg)
